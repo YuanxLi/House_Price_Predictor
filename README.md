@@ -1,2 +1,2 @@
-# K_nearest_neighbour
-A brief summary of knn algorithm by nolan
+# How to predict your house price?
+A brief summary of house price predictor by nolan
